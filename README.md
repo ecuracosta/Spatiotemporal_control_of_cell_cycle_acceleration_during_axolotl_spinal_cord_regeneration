@@ -1,8 +1,7 @@
-# Cura Costa et al., 2020a
-Contains source code for simulations and data analysis performed for Cura Costa et al., 2020a. You can view the notebooks online using nbviewer at https://nbviewer.jupyter.org/github/ecuracosta/Modeling_the_spatiotemporal_control_of_cell_cycle_acceleration/blob/master/index.ipynb
+# Cura Costa et al., 2021a
+Contains source code for simulations and data analysis performed for Cura Costa et al., 2021.
+You can view the notebooks online using [Binder](http://mybinder.org/)
+However, you should note that some calculations will take too much time to run them online. 
 
-If you want to run the notebooks locally please note they use Python 3.7.3. The python environment that was used is contained in `requirements.txt`. 
-
-
-
-<a href="https://zenodo.org/badge/latestdoi/238569005"><img src="https://zenodo.org/badge/238569005.svg" alt="DOI"></a>
+If you want to run the notebooks locally please note they use Python 3.9. 
+The python environment that was used is contained in `requirements.txt`. 
